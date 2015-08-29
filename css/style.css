@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	margin-top: 75px;
+	font-family: 'Times New Roman';
+}
+
+h1, h3 {
+	color: blue;
+}
+
+h1:hover {
+	color: lime;
+}
+
+h5 {
+	color: yellow;
+}
+
+h5:hover {
+	color: purple;
+}
